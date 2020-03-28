@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tennis-app/static/css/main.d55a731c.chunk.css",
+    "main.js": "/tennis-app/static/js/main.118007a5.chunk.js",
+    "main.js.map": "/tennis-app/static/js/main.118007a5.chunk.js.map",
+    "runtime-main.js": "/tennis-app/static/js/runtime-main.20e5100f.js",
+    "runtime-main.js.map": "/tennis-app/static/js/runtime-main.20e5100f.js.map",
+    "static/js/2.029dae24.chunk.js": "/tennis-app/static/js/2.029dae24.chunk.js",
+    "static/js/2.029dae24.chunk.js.map": "/tennis-app/static/js/2.029dae24.chunk.js.map",
+    "index.html": "/tennis-app/index.html",
+    "precache-manifest.fcc52590fc060e72f22f90266c0a94ae.js": "/tennis-app/precache-manifest.fcc52590fc060e72f22f90266c0a94ae.js",
+    "service-worker.js": "/tennis-app/service-worker.js",
+    "static/css/main.d55a731c.chunk.css.map": "/tennis-app/static/css/main.d55a731c.chunk.css.map",
+    "static/js/2.029dae24.chunk.js.LICENSE.txt": "/tennis-app/static/js/2.029dae24.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tennis-app/static/media/court.dfb0f719.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e5100f.js",
+    "static/js/2.029dae24.chunk.js",
+    "static/css/main.d55a731c.chunk.css",
+    "static/js/main.118007a5.chunk.js"
+  ]
+}
