@@ -5,9 +5,65 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: #72C3FF */
+  background-image: url(court.jpg);
+  background-repeat: no-repeat;
+  background-size: 2000px 1000px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* .background{
+  background-image: url(./court.jpg);
+} */
+
+.oof {
+  border-radius: 10px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #8DA9E8;
+  padding-top: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: #FF7272; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.header {
+  text-align: center;
+  background-color: #8DA9E8; 
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.footer {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.output {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
