@@ -22,7 +22,7 @@ export class MatchInput extends Component {
     players: [],
   };
 
-  componentDidUpdate() {
+  componentDidMount() {
     axios
     .get(
       `https://tennis-prediction-api.herokuapp.com/players`
